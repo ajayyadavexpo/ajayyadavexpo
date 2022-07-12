@@ -14,4 +14,4 @@ jobs:
       - uses: AjayYadavAi/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://devduniya.com/"
+          feed_list: "https://dev.to/feed/ajayyadav"
