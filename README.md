@@ -77,6 +77,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for AjayYadavAi" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700" height="200">
 
 
