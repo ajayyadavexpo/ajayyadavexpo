@@ -72,10 +72,10 @@
 
 ### :fire: My Stats :
 
+<img src="https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for AjayYadavAi" width="700">
+
 <img src="http://github-readme-streak-stats.herokuapp.com?user=AjayYadavAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for AjayYadavAi" width="700">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for AjayYadavAi" width="700">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700" height="200">
 
