@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/ajayyadavexpo/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/c/Ajayyadavexpo">
+    <a href="https://www.youtube.com/@ajay-yadav">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/ajayyadavexpo">
@@ -35,15 +35,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I create YouTube videos.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayyadavexpo)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayyadavexpo) [![Gmail Badge](https://img.shields.io/badge/-ajay-white?style=flat&logo=Gmail&logoColor=red)](ajayyadavexpo@gmail.com)
+- YouTube (6.5k) <a href="https://www.youtube.com/@ajay-yadav" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxtjs" alt="Nuxtjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -57,19 +60,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  
 </div>
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayYadavAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats)
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AjayYadavAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for AjayYadavAi" width="700">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for AjayYadavAi" width="700">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700">
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
