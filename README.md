@@ -17,8 +17,8 @@
     
   </div>
   <img src="https://komarev.com/ghpvc/?username=AjayYadavAi&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Ajay Yadav (Full Stack Developer)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -27,11 +27,16 @@
 </div>
 ---
 
-### 👨‍💻: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### Hi there 👋,
+<p align="justify">
+  <samp>I'm <b>Ajay Yadav</b> - a Full Stack Developer, Tech Enthusiast, Software Architect from Delhi, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software development stack in these days. I have 5+ years of development experience in architecting, designing,  development and implementing of web applications, using Laravel and Web technologies.
+  </samp>
+  <br/>
+</p>
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
+- 🌱 I’m currently learning: **Machine Learning,Artificial Intelligence systems and DevOps...**
+- :seedling: Exploring Technical YouTube Videos (Laravel Ecosystem).
 
 - :zap: In my free time, I create YouTube videos.
 
