@@ -67,7 +67,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayYadavAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
