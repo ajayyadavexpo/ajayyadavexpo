@@ -41,7 +41,7 @@
 - :zap: In my free time, I create YouTube videos.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayyadavexpo) [![Gmail Badge](https://img.shields.io/badge/-ajay-white?style=flat&logo=Gmail&logoColor=red)](ajayyadavexpo@gmail.com)
-- YouTube (6.5k) <a href="https://www.youtube.com/@ajay-yadav" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
+<!-- - YouTube (6.5k) <a href="https://www.youtube.com/@ajay-yadav" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a> -->
 
 ---
 
