@@ -29,13 +29,13 @@
 
 ### Hi there 👋,
 <p align="justify">
-  <samp>I'm <b>Ajay Yadav</b> - a Full Stack Developer, Tech Enthusiast, Software Architect from Delhi, India. I mostly deal with web development with HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software development stack in these days. I have 5+ years of development experience in architecting, designing,  development and implementing of web applications, using Laravel and Web technologies.
+  <samp>I'm <b>Ajay Yadav</b> - a Full Stack Developer, Tech Enthusiast, and Software Architect from Delhi, India. I mostly deal with web development with HTML5/CSS/Javascript, Bootstrap, Jquery, Laravel, Vuejs, React, Flask, Django, and Python, software development stack in these days. I have 5+ years of development experience in architecting, designing,  developing, and implementing web applications, using Laravel and Web technologies.
   </samp>
   <br/>
 </p>
 
 - :telescope: Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
-- 🌱 I’m currently learning: **Machine Learning,Artificial Intelligence systems and DevOps...**
+- 🌱 I’m currently learning: **Machine Learning, Artificial Intelligence systems, and DevOps...**
 - :seedling: Exploring Technical YouTube Videos (Laravel Ecosystem).
 
 - :zap: In my free time, I create YouTube videos.
