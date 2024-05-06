@@ -16,7 +16,7 @@
     </a>
     
   </div>
-  <img src="https://komarev.com/ghpvc/?username=AjayYadavAi&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ajayyadavexpo&style=flat-square&color=blue" alt=""/>
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Ajay Yadav (Full Stack Developer)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -72,11 +72,11 @@
 
 ### :fire: My Stats :
 
-<img src="https://github-readme-stats.vercel.app/api?username=AjayYadavAi&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for AjayYadavAi" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=ajayyadavexpo&theme=codeSTACKr&show_icons=true" alt="GitHub Stats for ajayyadavexpo" width="700">
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AjayYadavAi&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for AjayYadavAi" width="700">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ajayyadavexpo&theme=neon-palenight&hide_border=true&border=DD1515)](https://git.io/streak-stats" alt="GitHub Stats for ajayyadavexpo" width="700">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayYadavAi&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayyadavexpo&layout=compact&theme=codeSTACKr" alt="GitHub Stats for ajayyadavexpo" width="700" height="200">
 
 
